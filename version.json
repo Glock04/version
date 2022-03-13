@@ -1,5 +1,5 @@
 {
-    "date": "Feb 7, 2022",
-    "version": "1.0",
+    "latestVersion": "Feb 7, 2022",
+    "currentVersion": "1.0",
     "changelog": "Added:\n• Hide option for esx details.\n\nFixed:\n• Minor fixes."
 }
